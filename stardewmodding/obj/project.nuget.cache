@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfcUT7icxlM=",
+  "success": true,
+  "projectFilePath": "/Users/mariasek/RiderProjects/stardewmodding/stardewmodding/stardewmodding.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariasek/.nuget/packages/pathoschild.stardew.modbuildconfig/4.4.0/pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
