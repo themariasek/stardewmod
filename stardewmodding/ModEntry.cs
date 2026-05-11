@@ -10,7 +10,7 @@ namespace stardewmodding
     /// <summary>The mod entry point.</summary>
     internal sealed class ModEntry : Mod
     {
-        /*********st
+        /*********
          ** Public methods
          *********/
         /// <summary>The mod entry point, called after the mod is first loaded.</summary>
